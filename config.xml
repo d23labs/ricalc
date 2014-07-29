@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.ba.ricalc"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <name>RICalc</name>
+
+    <description>
+        An sample RICalc app
+    </description>
+
+    <author href="http://d23labs.com" email="sales@d23labs.com">
+        D23 Labs Team
+    </author>
+    <gap:platform name="ios" />
+    <gap:platform name="android" />
+    <gap:platform name="winphone" />
+</widget>
